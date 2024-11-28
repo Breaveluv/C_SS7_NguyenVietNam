@@ -6,8 +6,9 @@ int main() {
 	 for (int i = 0 ;i < 5 ; i++ ){
          printf ("%d\n", numberlists[i]);     
 	      length ++;		    
-}
+    }
         printf ("do dai cua bien %d\n ", length	 );
-		} 
-	
+	 
+	return 0;
+}
 		 
